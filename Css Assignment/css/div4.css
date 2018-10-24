@@ -1,0 +1,19 @@
+
+.left{
+    width: 160px;
+    background-color:red;
+    float: left;
+    height: 200px;
+}
+.center{
+    width:990px;
+    background-color: blue;
+    float: left;
+    height: 640px;
+}
+.right{
+    width:160px;
+    background-color: red;
+    float: left;
+    height: 400px;
+}

@@ -1,0 +1,26 @@
+
+.left {
+	width:300px;
+    height:100px; 
+    float:left; 
+    border: 2px solid Orange;
+}
+.center{
+    width:300px; 
+    height:100px; 
+    float:left; 
+    border: 2px solid  pink; 
+    border-right-color: purple;
+}
+.right {
+    background-color:greenyellow; 
+    width:300px; 
+    height:100px; 
+    float:left; 
+    border: 2px green;
+	
+}
+
+
+
+

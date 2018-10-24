@@ -1,0 +1,21 @@
+.container{
+    border: 7px solid skyblue;
+    height: 630px;
+    
+}
+.left {
+	width:260px;
+	background-color: red;
+	float:left;
+	height: 630px;
+    border: red;
+    
+}
+.right {
+	width:1059px;
+	background-color: black;
+	float:right;
+	height:630px;
+}
+
+

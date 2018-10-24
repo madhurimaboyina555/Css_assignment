@@ -1,0 +1,42 @@
+.header {
+    background-color: darkgrey;
+    padding: 7px;
+    text-align: center;
+}
+.nav{
+    background-color: darkgrey;
+    text-align: center;
+    height: 100px;   
+}
+.left{
+    background-color: darkgrey;
+    text-align: center;
+    width: 31%;
+    float: left;
+    margin: 13px;
+}
+.center{
+    background-color: darkgrey;
+    text-align: center;
+    width: 31%;
+    float: left;
+    margin:13px;
+    border-color: white;
+}
+.right{
+    background-color: darkgrey;
+    text-align: center;
+    float: right;
+    width: 31%;
+    margin:13px;
+}
+
+.footer {
+    background-color: darkgrey;
+    width: 100%;
+    height: 50px;
+    padding: 1px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}

@@ -1,0 +1,49 @@
+.header {
+    background-color: lightgrey;
+    padding: 7px;
+    text-align: center;
+}
+.menu {
+  width:350px;
+    height: 100px;
+  text-align:center;
+    margin: 7px;
+    background-color: dimgrey;
+  clear: both;
+  float: left;
+}
+
+.menu1 {
+    background-color: dimgrey;
+    padding: 7px;
+    margin: 20px;
+    width: 350px;
+    display: block;
+    height: 100px;
+    float: left;
+}
+.menu2 {
+    background-color: dimgrey;
+    padding: 7px;
+
+    margin: 20px;
+    width: 35px;
+    height: 35px;
+    float: left;
+}
+.p{
+    background-color: dimgrey;
+    width: 20%;
+    height: 35px;
+}
+.main{
+    float: left;
+    width: 630px;
+    height: 400px;
+    padding: 25px;
+    margin: 5px;
+    background-color: dimgrey;
+    margin-left: 330px;
+    text-align: center;
+}
+
